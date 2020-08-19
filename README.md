@@ -14,5 +14,5 @@ I'm a passionate self-taught programmer.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: One of my most productive days was throwing away 1000 lines of code.
 
-![Ronit's github stats](https://github-readme-stats.vercel.app/api?username=ronitsingh1405&show_icons=true&theme=radical)
+![Ronit's github stats](https://github-readme-stats.vercel.app/api?username=ronitsingh1405 &show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsingh1405&layout=compact)](https://github.com/ronitsingh1405/github-readme-stats)
