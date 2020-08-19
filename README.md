@@ -1,6 +1,6 @@
 ![Black and Yellow Bolt General Soundcloud Banner](https://user-images.githubusercontent.com/51703603/90614736-b31fdb00-e228-11ea-9a5b-f7c9c6a8fb19.png)
 
-### Hey there! I'm Ronit<http://ronitsingh1405.github.io>. 👋
+### Hey there! I'm [Ronit](http://ronitsingh1405.github.io). 👋
 
 I'm a passionate self-taught programmer.
 
