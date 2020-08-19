@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/ronitsingh1405/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.canva.com/design/DAEFUPIH_f4/v06V5FxIHWv0FvGDO82KyA/view?utm_content=DAEFUPIH_f4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)
+
 ### Hey there! I'm Ronit. 👋
 
 Having been deeply interested in technology, designing and AI, I aspire to be a web designer or an AI / Software Engineer after graduation.
