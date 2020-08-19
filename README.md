@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ronitsingh1405/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.canva.com/design/DAEFUPIH_f4/v06V5FxIHWv0FvGDO82KyA/view?utm_content=DAEFUPIH_f4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)
+![Black and Yellow Bolt General Soundcloud Banner](https://user-images.githubusercontent.com/51703603/90614736-b31fdb00-e228-11ea-9a5b-f7c9c6a8fb19.png)
 
 ### Hey there! I'm Ronit. 👋
 
