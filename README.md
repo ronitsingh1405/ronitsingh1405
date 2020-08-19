@@ -4,7 +4,6 @@
 
 I'm a passionate self-taught programmer.
 
-[![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
@@ -14,13 +13,11 @@ I'm a passionate self-taught programmer.
 
 <!-- icons with padding -->
 
-[1.1]: (linkedin icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: (linkedin icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
@@ -28,7 +25,6 @@ I'm a passionate self-taught programmer.
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.linkedin.com/in/ronit-singh-048a89179/
 [2]: https://www.facebook.com/profile.php?id=100011723242578
 [6]: https://github.com/ronitsingh1405
 
