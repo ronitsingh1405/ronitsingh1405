@@ -1,6 +1,6 @@
 ### Hey there! I'm Ronit. 👋
 
-Here are some ideas to get you started:
+# So what am I upto?
 
 - 🔭 I’m currently studying Computer Science at New York University Abu Dhabi, UAE.
 - 🌱 I’m currently learning Python.
