@@ -1,5 +1,7 @@
 ### Hey there! I'm Ronit. 👋
 
+Having been deeply interested in technology, designing and AI, I aspire to be a web designer or an AI / Software Engineer after graduation.
+
 #### So what am I upto?
 
 - 🔭 I’m currently studying Computer Science at New York University Abu Dhabi, UAE.
