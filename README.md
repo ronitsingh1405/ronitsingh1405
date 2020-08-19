@@ -9,4 +9,3 @@
 - 📫 How to reach me: My email ID is ronit.singh@nyu.edu
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: One of my most productive days was throwing away 1000 lines of code.
--->
