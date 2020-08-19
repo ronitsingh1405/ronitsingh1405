@@ -2,7 +2,7 @@
 
 ### Hey there! I'm Ronit. 👋
 
-Having been deeply interested in technology, designing and AI, I aspire to be a web designer or an AI / Software Engineer after graduation.
+I'm a passionate self-taught programmer.
 
 #### So what am I upto?
 
