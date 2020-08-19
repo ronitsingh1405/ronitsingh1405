@@ -14,15 +14,13 @@ I'm a passionate self-taught programmer.
 
 <!-- icons with padding -->
 
-[1.1]: ![LinkedIn Icon - Imgur](https://user-images.githubusercontent.com/51703603/90616860-99cc5e00-e22b-11ea-9854-8f774f804999.png)
- (linkedin icon with padding)
+[1.1]: (linkedin icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: ![LinkedIn Icon - Imgur](https://user-images.githubusercontent.com/51703603/90616860-99cc5e00-e22b-11ea-9854-8f774f804999.png)
- (linkedin icon without padding)
+[1.2]: (linkedin icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
