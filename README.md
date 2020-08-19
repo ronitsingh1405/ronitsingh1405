@@ -12,4 +12,4 @@ Having been deeply interested in technology, designing and AI, I aspire to be a 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: One of my most productive days was throwing away 1000 lines of code.
 
-![Ronit's github stats](https://github-readme-stats.vercel.app/api?username=ronitsingh1405&show_icons=true&theme=onedark)
+![Ronit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronitsingh1405&show_icons=true&theme=radical)
