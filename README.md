@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on various CS projects.
 - 🤔 I’m looking for internships, research opportunities and student assistantships in CS field.
 - 📫 How to reach me: My email ID is ronit.singh@nyu.edu
-- 😄 Pronouns: He / His
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: One of my most productive days was throwing away 1000 lines of code.
