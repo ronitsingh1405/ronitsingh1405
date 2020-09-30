@@ -30,7 +30,7 @@ I'm a passionate self-taught programmer.
 
 #### So what am I upto?
 
-- 🔭 I’m currently studying Computer Science at New York University Abu Dhabi, UAE.
+- 🔭 I’m currently studying Computer Science.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on various CS projects.
 - 🤔 I’m looking for internships, research opportunities and student assistantships in CS field.
